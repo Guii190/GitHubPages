@@ -1,0 +1,52 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 140, 255);
+}
+
+p {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(1, 140, 255);
+}
+
+.center {
+    text-align: center;
+}
+
+ a:hover {
+    color: rgb(1, 140, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    padding: 0px 50px;
+}
